@@ -20,7 +20,7 @@ export default class About extends Component {
       <div className="centered">
         <div className="name_title">Your Name</div>
         <div className="brief_description">
-          Hello! My name is Lena Munad, and I'm a Computer Science at LPC. 
+          Hello! My name is Lena Munad, and I'm a Computer Science at Las Positas College. I am a passionate software developer! And, I would love to meet and work with you all! 
         </div>
       </div>
     </div>
