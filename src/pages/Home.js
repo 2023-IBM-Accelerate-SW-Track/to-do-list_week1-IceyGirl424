@@ -30,9 +30,9 @@ class Home extends Component {
   render() {
     return (
       <div className="Home">
+        <h1 style={{color:'green'}}>回 Todo's List 回</h1>
         <Todos todos={this.state.todos} />
         <AddTodo addTodo={this.addTodo} />
-        <h1>Todo's List</h1>
       </div>
     );
   }
